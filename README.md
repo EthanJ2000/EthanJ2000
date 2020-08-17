@@ -9,5 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanj2000&layout=compact&hide=html" width="45%" height="200" alt="ethanj2000" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ethanj2000&show_icons=true" alt="ethanj2000" width="45%" height="250" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ethanj2000&show_icons=true" alt="ethanj2000" width="45%" height="200" /></p>
 
